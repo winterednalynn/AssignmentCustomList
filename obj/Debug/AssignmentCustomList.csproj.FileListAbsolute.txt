@@ -1,0 +1,7 @@
+C:\School\Programming V\AssignmentCustomList\bin\Debug\AssignmentCustomList.exe.config
+C:\School\Programming V\AssignmentCustomList\bin\Debug\AssignmentCustomList.exe
+C:\School\Programming V\AssignmentCustomList\bin\Debug\AssignmentCustomList.pdb
+C:\School\Programming V\AssignmentCustomList\obj\Debug\AssignmentCustomList.csproj.AssemblyReference.cache
+C:\School\Programming V\AssignmentCustomList\obj\Debug\AssignmentCustomList.csproj.CoreCompileInputs.cache
+C:\School\Programming V\AssignmentCustomList\obj\Debug\AssignmentCustomList.exe
+C:\School\Programming V\AssignmentCustomList\obj\Debug\AssignmentCustomList.pdb
